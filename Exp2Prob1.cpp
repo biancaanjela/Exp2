@@ -48,6 +48,4 @@ TotalBill = Fee;
 cout << "Your Total Bill is: P " << TotalBill << "\n\n";
 }
 
-getch ();
-return 0;
-}
+
